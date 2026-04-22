@@ -3,4 +3,4 @@
 
 Чтобы посмотреть портфолио, нажмите [сюда](https://333brain333.github.io/portfolio/).
 
-[![](pics/getsitecontrol__convert-video-to-gif__free.gif)](https://333brain333.github.io/turtle-rex-runner/)
+[![](https://github.com/333brain333/turtle-rex-runner/blob/gh-pages/assets/turtle-runner-bot.gif)](https://333brain333.github.io/turtle-rex-runner/)
